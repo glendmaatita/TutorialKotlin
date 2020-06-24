@@ -17,7 +17,7 @@
     * [String](dasar-pemograman-kotlin/sintaks-dasar/tipe-data/string.md)
     * [Boolean](dasar-pemograman-kotlin/sintaks-dasar/tipe-data/boolean.md)
   * [Seleksi Kondisi](dasar-pemograman-kotlin/sintaks-dasar/seleksi-kondisi/README.md)
-    * [If](dasar-pemograman-kotlin/sintaks-dasar/seleksi-kondisi/if.md)
+    * [if](dasar-pemograman-kotlin/sintaks-dasar/seleksi-kondisi/if.md)
     * [When](dasar-pemograman-kotlin/sintaks-dasar/seleksi-kondisi/when.md)
     * [For](dasar-pemograman-kotlin/sintaks-dasar/seleksi-kondisi/for.md)
     * [While](dasar-pemograman-kotlin/sintaks-dasar/seleksi-kondisi/while.md)

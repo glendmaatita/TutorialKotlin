@@ -1,0 +1,2 @@
+# Properti pada Class
+

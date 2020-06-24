@@ -1,0 +1,2 @@
+# Pewarisan pada Interface
+

@@ -1,0 +1,2 @@
+# Fungsi Inline
+

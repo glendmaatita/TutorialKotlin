@@ -6,6 +6,26 @@ Biasanya programmer yang baru belajar suatu bahasa pemograman akan membawa gaya 
 
 Berikut adalah beberapa idiom penting di Kotlin yang perlu selalu kita ingat ketika kita menulis kode di Kotlin
 
+#### Manfaatkan _type-inference_ di Kotlin
+
+Kotlin secara otomatis akan mendeteksi tipe data dari suatu variabel berdasarkan nilai yang dikandungnya. Jika tidak dalam kondisi khusus, manfaatkan fitur ini untuk mempersingkat kode kita
+
+```kotlin
+val name: String = "Ryu"
+
+// diganti dengan
+val name = "Ryu"
+```
+
+#### Di Kotlin, semua adalah _Object_
+
+Di Kotlin, semua adalah _object_, tidak ada tipe data primitif disini. Artinya tiap variabel adalah object, sehingga kita bisa memanfaatkan method-method bawaan yang ada pada variabel tersebut, alih-alih membuat sebuah fungsi untuk melakukan tugas tertentu. Dengan fitur ini pula-lah kita bisa memaksimalkan fitur lainnya pada Kotlin, yaitu funksi ekstensi yang akan dibahas di bab tersendiri.
+
+```kotlin
+val name = "Ryu"
+val report = "Your name consists of ${name.length} characters"
+```
+
 #### Hilangkan semicolon
 
 Kotlin tidak membutuhkan semicolon `;` untuk menandai akhir dari sebuah statement. Kotlin menggunakan `enter` untuk ini
@@ -48,6 +68,8 @@ Pengecekan secara _cascade_, artinya pengecekan nilai secara berurutan
 
 #### Manfaatkan _single-expression function_ untuk suatu fungsi sederhana yang mengembalikan nilai
 
+Fitur ini akan mempermudah penulisan sebuah fungsi sederhana, membuat kode kita lebih mudah dibaca
+
 ```kotlin
 // sederhanakan kode dibawah
 fun calculate(x: Int, y: Int): Int {
@@ -60,7 +82,9 @@ fun calculate(x: Int, y: Int): Int = x * y
 
 #### Gunakan `if` dan `when` sebagai suatu ekspresi untuk mendapatkan suatu nilai
 
-Untuk `if`
+Fungsi `if` dan `when` adalah bentuk ekspresi di Kotlin. Artinya keduanya dapat mengembalikan sebuah nilai.
+
+Contoh untuk `if`
 
 ```kotlin
 // sederhanakan kode dibawah
@@ -77,7 +101,7 @@ if (x < y) {
 top = if (x < y) x else y
 ```
 
-Untuk `when` 
+Contoh untuk `when` 
 
 ```kotlin
 // sederhanakan kode dibawah ini

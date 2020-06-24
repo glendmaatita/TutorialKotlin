@@ -55,7 +55,7 @@ val myWeight: Float = 15.798 // float
 val yourWeight = 16.893F // float
 ```
 
-#### Konversi antar bilangan
+### Konversi antar bilangan
 
 Kotlin menyediakan fungsi-fungsi yang melekat pada semua variabel bertipe `Number` untuk mengkonversi nilai suatu variabel dengan tipe bilangan tertentu ke tipe bilangan lainnya. 
 

@@ -1,3 +1,9 @@
+---
+description: >-
+  Bab ini akan membahas tentang Idiom di Kotlin, sesuatu yang membuat sintaks
+  Kotlin berbeda dengan bahasa pemograman lain
+---
+
 # Idiom
 
 Setiap bahasa pemograman mempunyai idiom masing-masing. Idiom ibarat dialek pada bahasa lisan, yang membedakan antara satu bahasa dengan bahasa lain meskipun sama-sama memakai abjad atau bahkan kata yang sama. Jadi kita akan bisa membedakan, apakah seorang programmer sudah lama menulis kode Kotlin hanya dengan melihat apakah dia menggunakan idiom Kotlin dengan baik dan benar. 

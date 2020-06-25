@@ -1,3 +1,9 @@
+---
+description: >-
+  Bab ini akan membahas sejarah Kotlin dan desain Kotlin sebagai bahasa
+  pemograman yang membedakannya dengan bahasa pemograman lain
+---
+
 # Pengenalan Kotlin
 
 ### Sejarah

@@ -1,3 +1,7 @@
+---
+description: 'Bab ini akan membahas apa itu Package, kegunaannya, dan cara menggunakannya'
+---
+
 # Package
 
 Package adalah suatu cara untuk mengelompokkan kode agar rapi dan mudah dibaca. Package dalam Kotlin bersifat _physical_, artinya nama package akan sesuai dengan lokasi tempat kode berada, dan relatif terhadap lokasi folder _src/_. Semua kode Kotlin idealnya berada di dalam sebuah package, agar mudah di-maintain. 

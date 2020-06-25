@@ -8,7 +8,7 @@
 * [Sintaks Dasar](dasar-pemograman-kotlin/sintaks-dasar/README.md)
   * [Idiom](dasar-pemograman-kotlin/sintaks-dasar/idiom.md)
   * [Package](dasar-pemograman-kotlin/sintaks-dasar/package.md)
-  * [Fungsi main\(\)](dasar-pemograman-kotlin/sintaks-dasar/fungsi-main.md)
+  * [Fungsi main](dasar-pemograman-kotlin/sintaks-dasar/fungsi-main.md)
   * [Variabel](dasar-pemograman-kotlin/sintaks-dasar/variabel.md)
   * [Komentar](dasar-pemograman-kotlin/sintaks-dasar/komentar.md)
   * [Tipe Data Dasar](dasar-pemograman-kotlin/sintaks-dasar/tipe-data/README.md)

@@ -2,7 +2,7 @@
 description: Bab ini akan membahas apa itu fungsi main dan kegunaannya
 ---
 
-# Fungsi main\(\)
+# Fungsi main
 
 Fungsi `main()` adalah pintu masuk untuk mengeksekusi kode Kotlin. Artinya, jika kita menjalankan sebuah program yang dibuat dengan Kotlin, kode yang pertama kali dieksekusi adalah kode yang berada dalam fungsi `main()`. 
 

@@ -8,7 +8,7 @@ description: >-
 
 ### Sejarah
 
-Kotlin dikenalkan oleh sebuah perusahaan pembuat IDE terkemuka bernama [Jetbrains](https://www.jetbrains.com/) pada tahun 2011. Setelah itu, Kotlin dikembangkan secara intensif di dalam internal JetBrains sampai release stable versi pertamanya pada tahun 2016.  Sejak saat itu, Kotlin mendapat perhatian dan sorotan dari berbagai kalangan dan komunitas developer sampai pada puncaknya di tahun 2017, pada acara Google I/O, Google mengumumkan bahwa Kotlin akan mendapat dukungan _first-class_ untuk pengembangan Android. 
+Kotlin dikenalkan oleh sebuah perusahaan pembuat IDE terkemuka bernama [Jetbrains](https://www.jetbrains.com/) pada tahun 2011. Setelah itu, Kotlin dikembangkan secara intensif di dalam internal JetBrains sampai release stable versi pertamanya pada tahun 2016.  Sejak saat itu, Kotlin mendapat perhatian dan sorotan dari berbagai kalangan dan komunitas developer sampai pada puncaknya di tahun 2017, pada acara [Google I/O](https://events.google.com/io/), Google mengumumkan bahwa Kotlin akan mendapat dukungan _first-class_ untuk pengembangan Android. 
 
 Artinya, framework Android, beserta seluruh library yang akan dirilis Google di masa mendatang akan sepenuhnya kompatibel dengan Kotlin. Google juga secara langsung menyarankan Android developer untuk menggunakan Kotlin dalam pengembangan aplikasi Android.
 

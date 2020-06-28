@@ -29,7 +29,7 @@
     * [Data Class](dasar-pemograman-kotlin/sintaks-dasar/class/data-class.md)
     * [Sealed Class](dasar-pemograman-kotlin/sintaks-dasar/class/sealed-class.md)
     * [Nested Class](dasar-pemograman-kotlin/sintaks-dasar/class/nested-class.md)
-    * [Enum Class](dasar-pemograman-kotlin/sintaks-dasar/class/enum-class.md)
+    * [Enum Classes](dasar-pemograman-kotlin/sintaks-dasar/class/enum-class.md)
     * [Inline Class](dasar-pemograman-kotlin/sintaks-dasar/class/inline-class.md)
     * [Fungsi](dasar-pemograman-kotlin/sintaks-dasar/class/fungsi/README.md)
       * [Fungsi Inline](dasar-pemograman-kotlin/sintaks-dasar/class/fungsi/fungsi-inline.md)

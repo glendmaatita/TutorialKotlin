@@ -27,9 +27,9 @@
     * [Properti & Fungsi di Class](dasar-pemograman-kotlin/sintaks-dasar/class/properti-pada-class.md)
     * [Visibilitas](dasar-pemograman-kotlin/sintaks-dasar/class/visibilitas.md)
     * [Data Class](dasar-pemograman-kotlin/sintaks-dasar/class/data-class.md)
+    * [Enum Classes](dasar-pemograman-kotlin/sintaks-dasar/class/enum-class.md)
     * [Sealed Class](dasar-pemograman-kotlin/sintaks-dasar/class/sealed-class.md)
     * [Nested Class](dasar-pemograman-kotlin/sintaks-dasar/class/nested-class.md)
-    * [Enum Classes](dasar-pemograman-kotlin/sintaks-dasar/class/enum-class.md)
     * [Inline Class](dasar-pemograman-kotlin/sintaks-dasar/class/inline-class.md)
     * [Fungsi](dasar-pemograman-kotlin/sintaks-dasar/class/fungsi/README.md)
       * [Fungsi Inline](dasar-pemograman-kotlin/sintaks-dasar/class/fungsi/fungsi-inline.md)
@@ -67,5 +67,26 @@
 
 * [Dependency Injection - Koin](pemograman-lanjutan/dependency-injection-koin.md)
 * [Interoperabilitas dengan Java](pemograman-lanjutan/interoperabilitas-dengan-java.md)
-* [Aplikasi Backend dengan Ktor](pemograman-lanjutan/aplikasi-backend-dengan-ktor.md)
+* [Design Pattern](pemograman-lanjutan/design-pattern/README.md)
+  * [Singleton Pattern](pemograman-lanjutan/design-pattern/singleton-pattern.md)
+  * [Factory Pattern](pemograman-lanjutan/design-pattern/factory-pattern.md)
+  * [Adapter Pattern](pemograman-lanjutan/design-pattern/adapter-pattern.md)
+  * [Decorator Pattern](pemograman-lanjutan/design-pattern/decorator-pattern.md)
+  * [Observer Pattern](pemograman-lanjutan/design-pattern/observer-pattern.md)
+  * [Facade Pattern](pemograman-lanjutan/design-pattern/facade-pattern.md)
+  * [Builder Pattern](pemograman-lanjutan/design-pattern/builder-pattern.md)
+* [Tips & Trick](pemograman-lanjutan/tips-and-trick/README.md)
+  * [Semantic Validation](pemograman-lanjutan/tips-and-trick/semantic-validation.md)
+  * [Anything & Nothing](pemograman-lanjutan/tips-and-trick/anything-and-nothing.md)
+  * [Lazy](pemograman-lanjutan/tips-and-trick/lazy.md)
+  * [Deprecation](pemograman-lanjutan/tips-and-trick/deprecation.md)
+* [DSL dengan Kotlin](pemograman-lanjutan/dsl-dengan-kotlin.md)
+
+## Android dengan Kotlin <a id="android"></a>
+
+* [Untitled](android/untitled.md)
+
+## Backend dengan Kotlin
+
+* [Untitled](backend-dengan-kotlin/untitled.md)
 
